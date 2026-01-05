@@ -42,5 +42,4 @@ Let’s build something meaningful together.
 📩 Reach out via GitHub or connect professionally on [LinkedIn](https://www.linkedin.com/in/zethembe-radebe?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) .
 
 ---
-### 🔒 Keeping Things Private with Katlego
-Some collabs stay in the cloud — others stay between legends. 💻✨  
+   
