@@ -1,14 +1,14 @@
 # 👋🏾 Hey, I'm Zethembe Radebe
 
-🎓 **Final Year IT Student**  
-💼 **Aspiring Systems Analyst**  
+🎓 **IT in Business Systems Graduate **  
+💼 **Aspiring Data analyst**  
 📍 Proudly South African 🇿🇦  
 
 ---
 
 ## 💡 About Me
 
-I'm deeply passionate about **systems analysis**, turning messy data and complex problems into clean, optimized solutions. Whether it's mapping workflows, designing smarter tech, or writing code that just *makes sense*, I’m always down for a challenge.
+I'm deeply passionate about **data analysis**, turning messy data and complex problems into clean, optimized solutions. Whether it's mapping workflows, designing smarter tech, or writing code that just *makes sense*, I’m always down for a challenge.
 
 > “Systems aren’t just built — they’re understood first.”
 
@@ -16,7 +16,7 @@ I'm deeply passionate about **systems analysis**, turning messy data and complex
 
 ## 🛠️ Tech I Work With
 
-- **Languages:** HTML, CSS, JavaScript, PHP, MySQL, Python  
+- **Languages:** HTML, CSS, JavaScript, PHP, MySQL, Python, NoSQL  
 - **Tools & Platforms:** GitHub, VS Code, WordPress, Canva, Figma, Power BI  
 - **Specialties:** System design, data modeling, UI/UX thinking, process optimization
 
