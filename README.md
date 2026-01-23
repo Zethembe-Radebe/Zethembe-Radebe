@@ -1,6 +1,6 @@
 # 👋🏾 Hey, I'm Zethembe Radebe
 
-🎓 **IT in Business Systems Graduate **  
+🎓 **IT in Business Systems Graduate**  
 💼 **Aspiring Data analyst**  
 📍 Proudly South African 🇿🇦  
 
